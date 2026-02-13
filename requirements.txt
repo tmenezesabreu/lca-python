@@ -1,0 +1,3 @@
+# Dependencias Python externas
+# Atualmente o projeto usa somente bibliotecas da stdlib.
+# Este arquivo existe para manter um fluxo padrao de instalacao.
